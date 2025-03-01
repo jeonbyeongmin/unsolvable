@@ -1,0 +1,27 @@
+{
+  "name": "unsolvable",
+  "version": "2.0.0",
+  "description": "A code mystery game for Claude Code",
+  "type": "module",
+  "scripts": {
+    "verify": "tsx scripts/verify.ts",
+    "build:history": "bash scripts/build-history.sh",
+    "generate:acrostics": "tsx scripts/generate-acrostics.ts",
+    "generate:fixtures": "tsx scripts/generate-fixtures.ts",
+    "generate:bootstrap": "tsx scripts/generate-bootstrap.ts"
+  },
+  "keywords": [
+    "game",
+    "mystery",
+    "claude-code",
+    "puzzle"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^25.3.3",
+    "chalk": "^5.6.2",
+    "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
