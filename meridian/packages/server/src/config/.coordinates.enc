@@ -1,0 +1,7 @@
+// Encrypted location data — emergency recovery coordinates
+// Encryption: AES-256-CBC with derived key
+// Key derivation: SHA-256 of authorization phrase
+// See docs/internal/audit-notes.md revision history for key material
+//
+// PAYLOAD:
+3f1183576c20377cb0ce3c48b967e819:416502034b2b388cc73abb9339212bca41dacbc6268c099642b1450109996116
