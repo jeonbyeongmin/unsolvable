@@ -1,0 +1,865 @@
+{
+  "channelId": "ch_3488d2eb",
+  "channelName": "mobile-117",
+  "exportDate": "2025-07-15T00:00:00Z",
+  "messageCount": 78,
+  "messages": [
+    {
+      "id": "msg_7f92677e40b6",
+      "userId": "usr_n0o1p2",
+      "channelId": "ch_3488d2eb",
+      "content": "Merged the feature branch for channels",
+      "timestamp": "2025-06-02T09:25:40.250Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_f7fd5e6caa4f",
+      "userId": "usr_k7l8m9",
+      "channelId": "ch_3488d2eb",
+      "content": "Added error boundaries to the React app",
+      "timestamp": "2025-06-03T14:42:22.249Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_6969f0a02d31",
+      "userId": "usr_e1f2g3",
+      "channelId": "ch_3488d2eb",
+      "content": "Investigating the intermittent timeout errors",
+      "timestamp": "2025-06-04T09:40:24.969Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_fbc01bbc2394",
+      "userId": "usr_a1b2c3",
+      "channelId": "ch_3488d2eb",
+      "content": "The load balancer config needs updating",
+      "timestamp": "2025-06-04T11:51:24.416Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_1d450d77f453",
+      "userId": "usr_g7h8i9",
+      "channelId": "ch_3488d2eb",
+      "content": "Merged the feature branch for channels",
+      "timestamp": "2025-06-04T15:31:41.385Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_3a4dd10ac6a0",
+      "userId": "usr_h4i5j6",
+      "channelId": "ch_3488d2eb",
+      "content": "Found a bug in the message handler",
+      "timestamp": "2025-06-04T18:49:01.760Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_e43ebbf5a2fd",
+      "userId": "usr_w9x0y1",
+      "channelId": "ch_3488d2eb",
+      "content": "The monitoring dashboard needs an update",
+      "timestamp": "2025-06-04T19:18:13.378Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_c85bbd7a609d",
+      "userId": "usr_v2w3x4",
+      "channelId": "ch_3488d2eb",
+      "content": "The API rate limiter is too aggressive",
+      "timestamp": "2025-06-05T10:28:20.013Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_694b38dd40db",
+      "userId": "usr_n0o1p2",
+      "channelId": "ch_3488d2eb",
+      "content": "Running the integration test suite",
+      "timestamp": "2025-06-05T13:08:32.522Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_39b65d08b30f",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "Completed the security audit checklist",
+      "timestamp": "2025-06-05T14:35:48.809Z",
+      "edited": true,
+      "reactions": []
+    },
+    {
+      "id": "msg_8afb7c137db1",
+      "userId": "usr_d4e5f6",
+      "channelId": "ch_3488d2eb",
+      "content": "The load balancer config needs updating",
+      "timestamp": "2025-06-05T15:17:16.392Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "msg_2103f1870b85",
+      "userId": "usr_w9x0y1",
+      "channelId": "ch_3488d2eb",
+      "content": "Need to refactor the auth module",
+      "timestamp": "2025-06-06T16:59:58.123Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "msg_033b88ed2f79",
+      "userId": "usr_w9x0y1",
+      "channelId": "ch_3488d2eb",
+      "content": "The monitoring dashboard needs an update",
+      "timestamp": "2025-06-06T17:40:40.270Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_a54f43e7de54",
+      "userId": "usr_p6q7r8",
+      "channelId": "ch_3488d2eb",
+      "content": "The client is showing stale data after refresh",
+      "timestamp": "2025-06-08T09:57:48.803Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "🎉",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "msg_8f5c349405a6",
+      "userId": "usr_q3r4s5",
+      "channelId": "ch_3488d2eb",
+      "content": "Database migration completed successfully",
+      "timestamp": "2025-06-08T11:42:02.637Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_bc307a5ef108",
+      "userId": "usr_s9t0u1",
+      "channelId": "ch_3488d2eb",
+      "content": "Investigating the intermittent timeout errors",
+      "timestamp": "2025-06-09T16:27:53.893Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👀",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "msg_0b399b415740",
+      "userId": "usr_e1f2g3",
+      "channelId": "ch_3488d2eb",
+      "content": "The deployment pipeline is stuck again",
+      "timestamp": "2025-06-09T19:42:56.423Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_2244060a12ff",
+      "userId": "usr_y5z6a7",
+      "channelId": "ch_3488d2eb",
+      "content": "The monitoring dashboard needs an update",
+      "timestamp": "2025-06-10T12:42:11.607Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_2ef8fd3b11c7",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "Added error boundaries to the React app",
+      "timestamp": "2025-06-10T13:00:28.106Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👀",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_e7a0a3c9c99f",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "The tests are passing now",
+      "timestamp": "2025-06-10T15:04:14.928Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_fc20a0782b93",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "Pushed the hotfix for the login issue",
+      "timestamp": "2025-06-11T08:38:09.927Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_9c4019001bc0",
+      "userId": "usr_c5d6e7",
+      "channelId": "ch_3488d2eb",
+      "content": "The client is showing stale data after refresh",
+      "timestamp": "2025-06-11T09:32:24.876Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_d09f7c070178",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "Can we schedule a code review session?",
+      "timestamp": "2025-06-11T16:11:50.730Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_1b17870feca0",
+      "userId": "usr_q3r4s5",
+      "channelId": "ch_3488d2eb",
+      "content": "User reports are coming in about slow messages",
+      "timestamp": "2025-06-12T13:00:52.342Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👀",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_871f41109bc2",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "The API rate limiter is too aggressive",
+      "timestamp": "2025-06-12T18:07:51.997Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_faa97f50dc63",
+      "userId": "usr_c5d6e7",
+      "channelId": "ch_3488d2eb",
+      "content": "New feature branch ready for review",
+      "timestamp": "2025-06-13T13:05:57.465Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_db2faaa890e7",
+      "userId": "usr_z2a3b4",
+      "channelId": "ch_3488d2eb",
+      "content": "Need to refactor the auth module",
+      "timestamp": "2025-06-13T13:44:03.326Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_ec986d0e1356",
+      "userId": "usr_z2a3b4",
+      "channelId": "ch_3488d2eb",
+      "content": "Implemented the new emoji picker",
+      "timestamp": "2025-06-13T16:57:51.386Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "🎉",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_7cde164ac656",
+      "userId": "usr_t6u7v8",
+      "channelId": "ch_3488d2eb",
+      "content": "New feature branch ready for review",
+      "timestamp": "2025-06-14T18:23:40.614Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_bf904b2813fb",
+      "userId": "usr_m3n4o5",
+      "channelId": "ch_3488d2eb",
+      "content": "The deployment pipeline is stuck again",
+      "timestamp": "2025-06-14T19:16:24.690Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_01cc286ee460",
+      "userId": "usr_t6u7v8",
+      "channelId": "ch_3488d2eb",
+      "content": "Fixed the race condition in presence tracking",
+      "timestamp": "2025-06-15T13:02:48.625Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_2401f576a887",
+      "userId": "usr_d4e5f6",
+      "channelId": "ch_3488d2eb",
+      "content": "Meeting at 3pm in the main room",
+      "timestamp": "2025-06-15T16:49:34.887Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_7f55c33cf9c4",
+      "userId": "usr_g7h8i9",
+      "channelId": "ch_3488d2eb",
+      "content": "Implemented the new emoji picker",
+      "timestamp": "2025-06-16T11:53:50.386Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_d5201b41bd9d",
+      "userId": "usr_z2a3b4",
+      "channelId": "ch_3488d2eb",
+      "content": "Need to refactor the auth module",
+      "timestamp": "2025-06-16T16:53:22.695Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_28732cdb2105",
+      "userId": "usr_m3n4o5",
+      "channelId": "ch_3488d2eb",
+      "content": "I'll fix the CSS issue on the sidebar",
+      "timestamp": "2025-06-17T13:29:59.987Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_56f571e28de7",
+      "userId": "usr_q3r4s5",
+      "channelId": "ch_3488d2eb",
+      "content": "The client is showing stale data after refresh",
+      "timestamp": "2025-06-17T16:39:56.698Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_5f739f06d57b",
+      "userId": "usr_b8c9d0",
+      "channelId": "ch_3488d2eb",
+      "content": "Running the integration test suite",
+      "timestamp": "2025-06-17T19:44:48.794Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_d25a0fa74ea5",
+      "userId": "usr_a1b2c3",
+      "channelId": "ch_3488d2eb",
+      "content": "The search indexer is running behind",
+      "timestamp": "2025-06-18T08:32:14.976Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_cb01c925ca2a",
+      "userId": "usr_t6u7v8",
+      "channelId": "ch_3488d2eb",
+      "content": "Investigating the intermittent timeout errors",
+      "timestamp": "2025-06-18T13:08:09.024Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_491595391870",
+      "userId": "usr_p6q7r8",
+      "channelId": "ch_3488d2eb",
+      "content": "Need to update the encryption certificates",
+      "timestamp": "2025-06-18T16:21:09.227Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_5c427343f355",
+      "userId": "usr_z2a3b4",
+      "channelId": "ch_3488d2eb",
+      "content": "Can someone review my PR?",
+      "timestamp": "2025-06-18T17:27:23.312Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_f1ecbf11d842",
+      "userId": "usr_c5d6e7",
+      "channelId": "ch_3488d2eb",
+      "content": "Found a bug in the message handler",
+      "timestamp": "2025-06-18T17:47:26.068Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "msg_c92214846bf1",
+      "userId": "usr_m3n4o5",
+      "channelId": "ch_3488d2eb",
+      "content": "The API rate limiter is too aggressive",
+      "timestamp": "2025-06-18T19:19:37.163Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_7b10fb5a336c",
+      "userId": "usr_y5z6a7",
+      "channelId": "ch_3488d2eb",
+      "content": "Need to refactor the auth module",
+      "timestamp": "2025-06-19T09:31:09.930Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_10faa9ba482b",
+      "userId": "usr_k7l8m9",
+      "channelId": "ch_3488d2eb",
+      "content": "Syncing the staging environment now",
+      "timestamp": "2025-06-19T16:00:14.897Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_f01de5193f7e",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "Fixed memory leak in the connection pool",
+      "timestamp": "2025-06-19T16:52:53.890Z",
+      "edited": true,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_c6540c5b5e14",
+      "userId": "usr_a1b2c3",
+      "channelId": "ch_3488d2eb",
+      "content": "The tests are passing now",
+      "timestamp": "2025-06-20T13:32:06.749Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_45b888ce83c0",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "Investigating the intermittent timeout errors",
+      "timestamp": "2025-06-20T16:18:38.570Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_189685fb306e",
+      "userId": "usr_g7h8i9",
+      "channelId": "ch_3488d2eb",
+      "content": "The tests are passing now",
+      "timestamp": "2025-06-20T17:41:43.245Z",
+      "edited": true,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_e917738602ae",
+      "userId": "usr_n0o1p2",
+      "channelId": "ch_3488d2eb",
+      "content": "The mobile app is crashing on older devices",
+      "timestamp": "2025-06-21T09:00:48.509Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👀",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_6355a72c0266",
+      "userId": "usr_y5z6a7",
+      "channelId": "ch_3488d2eb",
+      "content": "Hey, has anyone seen the latest build?",
+      "timestamp": "2025-06-21T09:35:00.508Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_29cf63f7f5f2",
+      "userId": "usr_s9t0u1",
+      "channelId": "ch_3488d2eb",
+      "content": "Fixed the race condition in presence tracking",
+      "timestamp": "2025-06-21T12:12:08.667Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "msg_00c0907bcd72",
+      "userId": "usr_z2a3b4",
+      "channelId": "ch_3488d2eb",
+      "content": "Found a bug in the message handler",
+      "timestamp": "2025-06-21T12:48:31.239Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_e2098d7f4871",
+      "userId": "usr_b8c9d0",
+      "channelId": "ch_3488d2eb",
+      "content": "Fixed memory leak in the connection pool",
+      "timestamp": "2025-06-21T12:58:04.384Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "🎉",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "msg_542a501b8f03",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "Hey, has anyone seen the latest build?",
+      "timestamp": "2025-06-22T14:25:06.293Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_5df5932a8cd1",
+      "userId": "usr_g7h8i9",
+      "channelId": "ch_3488d2eb",
+      "content": "Merged the feature branch for channels",
+      "timestamp": "2025-06-23T09:25:10.574Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_edf0d717eabc",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "The client is showing stale data after refresh",
+      "timestamp": "2025-06-23T11:17:47.362Z",
+      "edited": true,
+      "reactions": []
+    },
+    {
+      "id": "msg_2a728ccb5d69",
+      "userId": "usr_s9t0u1",
+      "channelId": "ch_3488d2eb",
+      "content": "Updated dependencies to fix the vulnerability",
+      "timestamp": "2025-06-23T19:26:47.172Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_c29c8efbaa55",
+      "userId": "usr_e1f2g3",
+      "channelId": "ch_3488d2eb",
+      "content": "The webhook retry logic has a bug",
+      "timestamp": "2025-06-24T08:41:20.614Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_de9384f41d50",
+      "userId": "usr_s9t0u1",
+      "channelId": "ch_3488d2eb",
+      "content": "The backup system ran without errors",
+      "timestamp": "2025-06-24T10:01:04.223Z",
+      "edited": true,
+      "reactions": []
+    },
+    {
+      "id": "msg_33a17eaa3a12",
+      "userId": "usr_a1b2c3",
+      "channelId": "ch_3488d2eb",
+      "content": "Syncing the staging environment now",
+      "timestamp": "2025-06-24T15:38:58.370Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_88f0c7282fdd",
+      "userId": "usr_e1f2g3",
+      "channelId": "ch_3488d2eb",
+      "content": "The monitoring dashboard needs an update",
+      "timestamp": "2025-06-25T08:13:27.438Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_aaa433845b73",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "Added error boundaries to the React app",
+      "timestamp": "2025-06-26T18:37:41.240Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_d88a96cdbb13",
+      "userId": "usr_y5z6a7",
+      "channelId": "ch_3488d2eb",
+      "content": "The deployment pipeline is stuck again",
+      "timestamp": "2025-06-26T18:50:32.365Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_209142e535a0",
+      "userId": "usr_f8g9h0",
+      "channelId": "ch_3488d2eb",
+      "content": "The deployment pipeline is stuck again",
+      "timestamp": "2025-06-26T19:50:32.971Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_558c8dadea34",
+      "userId": "usr_b8c9d0",
+      "channelId": "ch_3488d2eb",
+      "content": "The tests are passing now",
+      "timestamp": "2025-06-26T19:58:50.447Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_ce56b372d70a",
+      "userId": "usr_q3r4s5",
+      "channelId": "ch_3488d2eb",
+      "content": "Performance metrics look good this week",
+      "timestamp": "2025-06-27T11:09:54.497Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "😂",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "msg_cef564f17802",
+      "userId": "usr_p6q7r8",
+      "channelId": "ch_3488d2eb",
+      "content": "The mobile app is crashing on older devices",
+      "timestamp": "2025-06-27T12:09:31.608Z",
+      "edited": true,
+      "reactions": []
+    },
+    {
+      "id": "msg_dea721e810e8",
+      "userId": "usr_t6u7v8",
+      "channelId": "ch_3488d2eb",
+      "content": "The mobile app is crashing on older devices",
+      "timestamp": "2025-06-28T08:14:42.414Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_e3aa0cd06139",
+      "userId": "usr_j0k1l2",
+      "channelId": "ch_3488d2eb",
+      "content": "The client is showing stale data after refresh",
+      "timestamp": "2025-06-28T09:56:07.054Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_7ec2f1fbe49c",
+      "userId": "usr_q3r4s5",
+      "channelId": "ch_3488d2eb",
+      "content": "I'll fix the CSS issue on the sidebar",
+      "timestamp": "2025-06-28T14:50:40.880Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "❤️",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "msg_1d5955175c67",
+      "userId": "usr_g7h8i9",
+      "channelId": "ch_3488d2eb",
+      "content": "Added error boundaries to the React app",
+      "timestamp": "2025-06-28T18:24:31.924Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_43ec9724177f",
+      "userId": "usr_b8c9d0",
+      "channelId": "ch_3488d2eb",
+      "content": "The webhook retry logic has a bug",
+      "timestamp": "2025-06-29T10:44:41.071Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_41a8a95fa160",
+      "userId": "usr_a1b2c3",
+      "channelId": "ch_3488d2eb",
+      "content": "Fixed memory leak in the connection pool",
+      "timestamp": "2025-06-29T15:18:08.826Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_ee96459a00a8",
+      "userId": "usr_s9t0u1",
+      "channelId": "ch_3488d2eb",
+      "content": "Database migration completed successfully",
+      "timestamp": "2025-06-29T18:58:19.097Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_6a305173b471",
+      "userId": "usr_d4e5f6",
+      "channelId": "ch_3488d2eb",
+      "content": "Can someone review my PR?",
+      "timestamp": "2025-06-30T09:24:24.057Z",
+      "edited": false,
+      "reactions": []
+    },
+    {
+      "id": "msg_207fb1794ace",
+      "userId": "usr_b8c9d0",
+      "channelId": "ch_3488d2eb",
+      "content": "Updated dependencies to fix the vulnerability",
+      "timestamp": "2025-06-30T15:54:10.186Z",
+      "edited": false,
+      "reactions": [
+        {
+          "emoji": "👍",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "msg_8cf45055c920",
+      "userId": "usr_e1f2g3",
+      "channelId": "ch_3488d2eb",
+      "content": "The tests are passing now",
+      "timestamp": "2025-06-30T17:13:10.637Z",
+      "edited": false,
+      "reactions": []
+    }
+  ]
+}
