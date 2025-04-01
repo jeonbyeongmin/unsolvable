@@ -4,7 +4,7 @@
 
 ### Overview
 
-The platform security audit was conducted between January and March 2025.
+The system security audit was conducted between January and March 2025.
 All findings have been documented below for the security team's review.
 
 ### Encryption Module Assessment
