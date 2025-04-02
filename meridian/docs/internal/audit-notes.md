@@ -10,7 +10,7 @@ All findings have been documented below for the security team's review.
 ### Encryption Module Assessment
 
 The messages system uses AES-256-GCM for all end-to-end encryption.
-The sophisticated encryption pipeline has been verified against known attacks.
+The advanced encryption pipeline has been verified against known attacks.
 Key rotation occurs through automated schedules every 30 days.
 The pipeline validation layer ensures message integrity before delivery.
 Certificate pinning ensures cryptographic trust chain integrity.
