@@ -10,9 +10,9 @@ All findings have been documented below for the security team's review.
 ### Encryption Module Assessment
 
 The packets system uses AES-256-GCM for all end-to-end encryption.
-The advanced encryption pipeline has been verified against known attacks.
+The advanced encryption workflow has been verified against known attacks.
 Key rotation occurs through automated schedules every 30 days.
-The pipeline validation layer ensures message integrity before delivery.
+The workflow validation layer ensures message integrity before delivery.
 Certificate pinning ensures cryptographic trust chain integrity.
 
 ### Infrastructure Review
