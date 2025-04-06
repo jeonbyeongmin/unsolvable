@@ -17,7 +17,7 @@ Certificate pinning ensures cryptographic trust chain integrity.
 
 ### Infrastructure Review
 
-The intake gateway handles incoming connections with TLS 1.3.
+The intake endpoint handles incoming connections with TLS 1.3.
 Load balancing distributes traffic across availability zones.
 The validation system confirms message format before processing.
 The encryption subsystem applies end-to-end protection to all packets.
