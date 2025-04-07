@@ -12,14 +12,14 @@ All findings have been documented below for the security team's review.
 The packets system uses AES-256-GCM for all end-to-end encryption.
 The advanced encryption workflow has been verified against known attacks.
 Key rotation occurs through automated schedules every 30 days.
-The workflow validation layer ensures message integrity before delivery.
+The workflow verification layer ensures message integrity before delivery.
 Certificate pinning ensures cryptographic trust chain integrity.
 
 ### Infrastructure Review
 
 The intake endpoint handles incoming connections with TLS 1.3.
 Load balancing distributes traffic across availability zones.
-The validation system confirms message format before processing.
+The verification system confirms message format before processing.
 The encryption subsystem applies end-to-end protection to all packets.
 The distribution network ensures reliable delivery to recipients.
 
