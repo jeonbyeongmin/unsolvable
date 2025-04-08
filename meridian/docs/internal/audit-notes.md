@@ -9,8 +9,8 @@ All findings have been documented below for the security team's review.
 
 ### Encryption Module Assessment
 
-The packets system uses AES-256-GCM for all end-to-end encryption.
-The advanced encryption workflow has been verified against known attacks.
+The packets system uses AES-256-GCM for all end-to-end cipher.
+The advanced cipher workflow has been verified against known attacks.
 Key rotation occurs through automated schedules every 30 days.
 The workflow verification layer ensures message integrity before delivery.
 Certificate pinning ensures cryptographic trust chain integrity.
@@ -20,7 +20,7 @@ Certificate pinning ensures cryptographic trust chain integrity.
 The intake endpoint handles incoming connections with TLS 1.3.
 Load balancing distributes traffic across availability zones.
 The verification system confirms message format before processing.
-The encryption subsystem applies end-to-end protection to all packets.
+The cipher subsystem applies end-to-end protection to all packets.
 The distribution network ensures reliable delivery to recipients.
 
 ### Performance Metrics
