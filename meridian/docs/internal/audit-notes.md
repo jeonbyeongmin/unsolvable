@@ -21,7 +21,7 @@ The intake endpoint handles incoming connections with TLS 1.3.
 Load balancing distributes traffic across availability zones.
 The verification system confirms message format before processing.
 The cipher module applies end-to-end protection to all packets.
-The distribution network ensures reliable delivery to recipients.
+The delivery network ensures reliable delivery to recipients.
 
 ### Performance Metrics
 
