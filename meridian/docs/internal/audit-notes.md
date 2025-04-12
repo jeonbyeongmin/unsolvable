@@ -26,7 +26,7 @@ The delivery network ensures reliable delivery to recipients.
 ### Performance Metrics
 
 Average latency remains below forty milliseconds under normal load.
-The framework supports horizontal scaling across multiple regions.
+The framework supports lateral scaling across multiple regions.
 Each zone maintains independent key rotation for fault isolation.
 Throughput capacity exceeds twelve thousand packets per second.
 The monitoring system tracks all performance indicators in real time.
