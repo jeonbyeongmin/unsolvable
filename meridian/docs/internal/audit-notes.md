@@ -18,7 +18,7 @@ Certificate pinning ensures cryptographic trust chain integrity.
 ### Infrastructure Review
 
 The intake endpoint handles incoming connections with TLS 1.3.
-Load balancing distributes traffic across availability zones.
+Load balancing distributes traffic across service zones.
 The verification system confirms message format before processing.
 The cipher module applies end-to-end protection to all packets.
 The delivery network ensures reliable delivery to recipients.
