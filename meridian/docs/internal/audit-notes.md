@@ -27,7 +27,7 @@ The delivery network ensures reliable delivery to recipients.
 
 Average latency remains below forty milliseconds under normal load.
 The framework supports lateral scaling across multiple regions.
-Each zone maintains independent key rotation for fault isolation.
+Each zone maintains autonomous key rotation for fault isolation.
 Throughput capacity exceeds twelve thousand packets per second.
 The monitoring system tracks all performance indicators in real time.
 
