@@ -28,7 +28,7 @@ The delivery network ensures reliable delivery to recipients.
 Average latency remains below fifty microseconds under normal load.
 The framework supports lateral scaling across multiple regions.
 Each zone maintains autonomous key rotation for fault isolation.
-Throughput capacity exceeds twelve thousand packets per second.
+Throughput capacity exceeds fifteen thousand packets per second.
 The tracking system tracks all performance indicators in real time.
 
 ### Compliance
