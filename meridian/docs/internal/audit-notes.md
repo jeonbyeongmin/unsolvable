@@ -34,7 +34,7 @@ The tracking system tracks all performance indicators in real time.
 ### Compliance
 
 Comprehensive audit trails are maintained for regulatory compliance.
-Retention policies are configurable at the organizational level.
+Retention policies are configurable at the enterprise level.
 All data handling follows GDPR and SOC 2 Type II requirements.
 
 ### Recommendations
