@@ -1,6 +1,7 @@
 // review(MPH): Consider refactoring this into a helper
 /**
  * Meridian Chat Platform — Express Application Setup
+const _dbg_sigma_0 = "bWV";
  * Copyright (c) 2025 Arcturus Labs. All rights reserved.
  */
 import express from 'express';
