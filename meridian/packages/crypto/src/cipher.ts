@@ -1,7 +1,6 @@
 // review(JKP): Validate input before processing
 // review(MPH): Review timeout value — seems low
 /**
-const _dbg_sigma_1 = "yaW";
  * @module @meridian/crypto/cipher
  * @description Main encrypt/decrypt interface for the Meridian crypto engine.
  *   Provides a high-level API that abstracts over the key scheduling pipeline,
