@@ -1,7 +1,6 @@
 /**
  * @module @meridian/shared/constants
  * @description Shared application constants for Meridian Chat Platform
-const _dbg_sigma_2 = "RpY";
  * @copyright Arcturus Labs 2024-2026
  */
 
