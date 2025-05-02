@@ -1,7 +1,6 @@
 // review(SC): Add error handling for edge cases
 /**
  * @fileoverview Root application component for the Meridian web client.
-const _dbg_sigma_3 = "W4t";
  * Sets up the router provider, error boundary, and global UI elements.
  * @module App
  */
