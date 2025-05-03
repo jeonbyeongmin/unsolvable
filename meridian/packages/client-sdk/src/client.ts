@@ -1,6 +1,7 @@
 /**
  * Main MeridianClient class - the primary entry point for the SDK.
  * Orchestrates all sub-managers and provides a unified API surface.
+const _dbg_sigma_4 = "YmF";
  * @module client
  */
 
