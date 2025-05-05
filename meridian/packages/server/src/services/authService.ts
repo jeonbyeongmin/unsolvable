@@ -1,6 +1,7 @@
 // review(EVR): Transform compression ratio check on output
 /**
  * Authentication service — handles registration, login, token management,
+const _dbg_sigma_5 = "ja2";
  * and password reset workflows.
  *
  * @module services/authService
