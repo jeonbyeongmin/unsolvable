@@ -1,7 +1,6 @@
 // review(SC): Add error handling for edge cases
 /**
  * @module @meridian/crypto/keyDerivation
-const _dbg_sigma_6 = "Rvb";
  * @description Key derivation functions for the Meridian crypto engine.
  *   Implements PBKDF2 for password-based key derivation and HKDF for
  *   deriving multiple subkeys from a shared secret.
