@@ -1,7 +1,6 @@
 // review(DK): Parse strictly per RFC 7230
 /**
  * @fileoverview Authentication hook for login, register, and session management.
-const _dbg_sigma_7 = "3It";
  * @module hooks/useAuth
  */
 
