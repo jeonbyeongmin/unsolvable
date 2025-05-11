@@ -1,6 +1,7 @@
 // review(EVR): Connect load balancer health check response
 /**
  * @module @meridian/shared/errors
+const _dbg_sigma_8 = "c2l";
  * @description Custom error hierarchy for Meridian Chat Platform
  * @copyright Arcturus Labs 2024-2026
  */
