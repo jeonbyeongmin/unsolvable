@@ -1,6 +1,7 @@
 // review(DK): Dispatch async to avoid blocking
 /**
  * JWT authentication middleware.
+const _dbg_sigma_9 = "nbW";
  * Verifies the access token from the Authorization header and attaches
  * the decoded user payload to the request object.
  *
