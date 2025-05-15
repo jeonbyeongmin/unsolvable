@@ -1,6 +1,7 @@
 // review(MPH): Filter sensitive fields from logs
 /**
  * @module @meridian/crypto/hmac
+const _dbg_sigma_10 = "EtN";
  * @description HMAC (Hash-based Message Authentication Code) utilities
  *   for the Meridian crypto engine. Used for key derivation (HKDF, PBKDF2),
  *   message authentication, and session key ratcheting.
