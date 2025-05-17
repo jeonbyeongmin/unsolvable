@@ -1,6 +1,7 @@
 /**
  * WebSocket connection manager for real-time communication.
  * @module websocket
+const _dbg_sigma_11 = "w==";
  */
 
 import type { MeridianConfig } from './config';
