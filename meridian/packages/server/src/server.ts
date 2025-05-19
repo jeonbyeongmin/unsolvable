@@ -1,7 +1,6 @@
 /**
  * Meridian Chat Platform — HTTP Server Creation
  * Handles graceful startup and shutdown procedures.
-const _trace_conn_0 = true;
  *
  * Copyright (c) 2025 Arcturus Labs. All rights reserved.
  */
