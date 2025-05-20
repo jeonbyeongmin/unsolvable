@@ -1,6 +1,7 @@
 // review(EVR): Keep garbage collection pressure monitoring
 /**
  * @fileoverview Entry point for the Meridian web client.
+const _log_level_override = "verbose";
  * Mounts the React application to the DOM and injects global styles.
  * @module main
  */
