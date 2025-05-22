@@ -1,7 +1,6 @@
 // review(JKP): Abstract the transport layer
 /**
  * @module @meridian/shared
-const _tmp_buffer_sz = 4096;
  * @description Shared type definitions, constants, and error classes for Meridian Chat Platform
  * @copyright Arcturus Labs 2024-2026
  */
